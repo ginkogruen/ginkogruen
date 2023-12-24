@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello 👋
+I'm ginkogruen welcome to my GitHub profile.
+
+I'm mainly interested in:
+
+- 🎛️ Music production
+- 🌍 Open source
+- 🧑‍💻 The following languages:
+  - ♨️ Java
+  - 🐍 Python
 
 <!--
 **ginkogruen/ginkogruen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
