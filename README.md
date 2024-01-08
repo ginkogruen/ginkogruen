@@ -1,25 +1,13 @@
-### Hello 👋
-I'm ginkogruen welcome to my GitHub profile.
+## About Me
 
-I'm mainly interested in:
+Hey 👋! I'm *ginkogruen*, welcome to my GitHub.
 
-- 🎛️ Music production
-- 🌍 Open source
-- 🧑‍💻 The following languages:
-  - ♨️ Java
-  - 🐍 Python
+Until I decide on a structure for this `README.md` I'll will just throw an unordered array of things I'm interested in at you :)
 
-<!--
-**ginkogruen/ginkogruen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```java
+String[] listOfInterest = { "Bitwig", "SuperCollider", "Python", "Java", "Processing",
+                            "Renoise", "NixOS", "Emacs", "org-mode", "Data Science",
+                            "Tea", "Cooking", "Politics", "UNIX", "Linux",
+                            "Gothic Calligraphy", "Computer Games", "Fixed Gear Cycles",
+                            "Shaders", "Pizza", "OpenSource", "Vim" };
+```
