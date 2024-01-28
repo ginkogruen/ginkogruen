@@ -11,5 +11,5 @@ String[] listOfInterests = { "Bitwig", "SuperCollider", "Python", "Java", "Proce
                              "Renoise", "NixOS", "Emacs", "org-mode", "Data Science",
                              "Tea", "Cooking", "Politics", "UNIX", "Linux",
                              "Gothic Calligraphy", "Computer Games", "Fixed Gear Cycles",
-                             "Shaders", "Pizza", "OpenSource", "Vim" };
+                             "Shaders", "Pizza", "OpenSource", "Vim", "Immersive Sims", "Roguelikes" };
 ```
