@@ -1,4 +1,4 @@
-*.md linguist-vendored=false
-*.md linguist-generated=false
-*.md linguist-documentation=false
-*.md linguist-detectable=true
+*.org linguist-vendored=false
+*.org linguist-generated=false
+*.org linguist-documentation=false
+*.org linguist-detectable=true
